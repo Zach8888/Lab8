@@ -10,7 +10,7 @@ public class Employee {
 
     /**
      * Constructor for initialization.
-     * @param name
+     * @param name change something
      * @param manager
      */
     public Employee(final String name, final String manager) {
